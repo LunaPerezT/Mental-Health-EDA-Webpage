@@ -592,25 +592,25 @@ elif page == "🔗 Disorders' Metrics Correlations":
         <div class="author-box">  
         <p style="margin:0;">           
                         
-Prevalence and burden lineal correlation analysis followed the same trends:
-
-**Strong Positive Correlations**
-- **Bipolar and Eating disorders**  → Suggests these disorders often co-occur or share similar prevalence patterns.
-- **Anxiety and Eating disorders**, and **Anxiety and Bipolar disorder**  → Anxiety appears to be highly comorbid with both bipolar and eating disorders.
-- **Schizophrenia and Eating disorders** → Moderate relationship, possibly reflecting overlapping risk factors or diagnostic complexities.  
-  
-The **positive cluster** among *Anxiety, Bipolar, and Eating disorders* may indicate shared psychosocial or biological risk factors.
-
-**Weak or Neutral Correlations**
-- **Schizophrenia with Anxiety** and **Bipolar** → Indicates limited overlap in prevalence.
-- **Depressive with Anxiety** and **Bipolar**  
-  → These relatively low correlations may reflect distinct diagnostic boundaries or differing epidemiological patterns.
-
-**Negative Correlations**
-- **Schizophrenia and Depressive disorders (~ -0.46)**. This results could be explain because **public health systems with limited resources** tend to **focus on** either **severe disorders (like schizophrenia)** **or high-burden common disorders (like depression), but not both equally**.
-In **low-resource settings** → **schizophrenia cases recorded, depression underreported**.
-In high-resource settings → **depression well-tracked, schizophrenia data diluted** in broader datasets and **underdiagnosed due to stigma**.    
-                       
+        Prevalence and burden lineal correlation analysis followed the same trends:
+        
+        **Strong Positive Correlations**
+        - **Bipolar and Eating disorders**  → Suggests these disorders often co-occur or share similar prevalence patterns.
+        - **Anxiety and Eating disorders**, and **Anxiety and Bipolar disorder**  → Anxiety appears to be highly comorbid with both bipolar and eating disorders.
+        - **Schizophrenia and Eating disorders** → Moderate relationship, possibly reflecting overlapping risk factors or diagnostic complexities.  
+          
+        The **positive cluster** among *Anxiety, Bipolar, and Eating disorders* may indicate shared psychosocial or biological risk factors.
+        
+        **Weak or Neutral Correlations**
+        - **Schizophrenia with Anxiety** and **Bipolar** → Indicates limited overlap in prevalence.
+        - **Depressive with Anxiety** and **Bipolar**  
+          → These relatively low correlations may reflect distinct diagnostic boundaries or differing epidemiological patterns.
+        
+        **Negative Correlations**
+        - **Schizophrenia and Depressive disorders (~ -0.46)**. This results could be explain because **public health systems with limited resources** tend to **focus on** either **severe disorders (like schizophrenia)** **or high-burden common disorders (like depression), but not both equally**.
+        In **low-resource settings** → **schizophrenia cases recorded, depression underreported**.
+        In high-resource settings → **depression well-tracked, schizophrenia data diluted** in broader datasets and **underdiagnosed due to stigma**.    
+                               
         </p>
         </div>                                                     
         """, unsafe_allow_html=True)
@@ -1040,5 +1040,6 @@ else:
 st.markdown("---")
 
 st.markdown("<p style='text-align: center; color: gray; font-size: 1em;'>© 2025 Global Mental Health EDA — Luna Pérez Troncoso </p>",unsafe_allow_html=True)
+
 
 
