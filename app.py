@@ -612,7 +612,7 @@ In **low-resource settings** → **schizophrenia cases recorded, depression unde
 In high-resource settings → **depression well-tracked, schizophrenia data diluted** in broader datasets and **underdiagnosed due to stigma**.    
                        
         </p>
-        <div/>                                                     
+        </div>                                                     
         """, unsafe_allow_html=True)
         st.markdown("<br/><br/>", unsafe_allow_html=True)
 
@@ -1040,4 +1040,5 @@ else:
 st.markdown("---")
 
 st.markdown("<p style='text-align: center; color: gray; font-size: 1em;'>© 2025 Global Mental Health EDA — Luna Pérez Troncoso </p>",unsafe_allow_html=True)
+
 
